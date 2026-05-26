@@ -1,2 +1,2 @@
 # ucr-c6h256-repo-test
-this is a test from SW dev lessons
+This is a test repo for SW dev lessons
